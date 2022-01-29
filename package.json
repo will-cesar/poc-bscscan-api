@@ -4,7 +4,7 @@
   "description": "This POC has as objective test the BscScan API.",
   "main": "index.js",
   "scripts": {
-    "dev": "ts-node-dev ./src/server.ts",
+    "dev": "ts-node-dev -r dotenv/config ./src/server.ts",
     "build": "tsc",
     "start": "node ./dist/server.js"
   },
@@ -25,6 +25,7 @@
   },
   "devDependencies": {
     "@types/express": "^4.17.13",
+    "dotenv": "^14.3.2",
     "ts-node-dev": "^1.1.8",
     "typescript": "^4.5.5"
   }
