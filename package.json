@@ -19,5 +19,8 @@
   "homepage": "https://github.com/will-cesar/poc-bscscan-api#readme",
   "dependencies": {
     "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.5"
   }
 }

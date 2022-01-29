@@ -8,7 +8,7 @@ This POC has as objective test the BscScan API.
 
 - express.js
 - node.js
-
+- TypeScript
 
 ## To Do
 
