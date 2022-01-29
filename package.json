@@ -4,7 +4,8 @@
   "description": "This POC has as objective test the BscScan API.",
   "main": "index.js",
   "scripts": {
-    "dev": "ts-node-dev ./src/server.ts"
+    "dev": "ts-node-dev ./src/server.ts",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
