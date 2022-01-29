@@ -17,10 +17,16 @@ This POC has as objective test the BscScan API.
 - Using `ts-node-dev` with lib to running APP
 - Using `dotenv` to hide sensitive information
 
+## Resources
+- BscScan Docs: https://docs.bscscan.com
+- CoinGecko Docs: https://www.coingecko.com/pt/api/documentation
+
 ## To Do
 
-- [ ] Connect the wallet
-- [ ] Show all transactions by wallet
+- [ x ] Connect the wallet
+- [ x ] Show all transactions by wallet
+- [ ] Connect to CoinGecko API to get token information
+- [ ] Show token information
 
 ## Run App
 
