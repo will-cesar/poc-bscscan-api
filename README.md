@@ -23,8 +23,8 @@ This POC has as objective test the BscScan API.
 
 ## To Do
 
-- [ x ] Connect the wallet
-- [ x ] Show all transactions by wallet
+- [x] Connect the wallet
+- [x] Show all transactions by wallet
 - [ ] Connect to CoinGecko API to get token information
 - [ ] Show token information
 
