@@ -12,5 +12,5 @@ This POC has as objective test the BscScan API.
 
 ## To Do
 
-- [] Connect the wallet
-- [] Show all transactions by wallet
+- [ ] Connect the wallet
+- [ ] Show all transactions by wallet
